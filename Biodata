@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Andreas Ibrahim</title>
+        <link rel="stylesheet"  type="text/css" href="style.css">
+    </head>
+    <style>
+        body {
+font-family:'Quicsand', sans-serif;
+line-height:1.5;
+background-image: url(bbgr.jpg);
+background-size: 1000px;
+text-align: center;
+}
+ul {
+    margin-left: -45px;
+}
+li {
+    list-style: none;
+    display: inline-block;
+}
+.main   {
+    width: 800px;
+    height: 520px;
+    background-color: #aaaaaa;
+    margin: auto;
+    padding-top: 20px;
+    border-radius: 10px;
+    border: 1px solid #eeeeee';
+}
+.img    {
+    background-color: #eaeaea;
+    background-image: url(Pix.jpg);
+    background-size: cover;
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    font-weight: bold;
+    color: #000000;
+}
+.text {
+    text-align: center;
+    font-size: 15px;
+    margin: 0;
+    color:black;
+}
+p {
+    color: purple;
+
+}
+
+    </style>
+    <body>
+        <div class="main">
+            <div class="img">
+                <h1>Andreas Ibrahim</h1>
+                <div class="text"><strong>Developer from Pondok.Kacang</strong></div>
+                <p>Hai, Selamat datang di Halaman Web Saya, Sejak Saya Remaja Saya Sudah Lama Belajar WebCoding disini Saya Akan Mengajarkan Bagaimana Cara Kita Menggunakan Koding Dengan Benar.</p>
+                <ul>
+                    <li><a href="#"><img src="download.jpg" width="25px" height="25px"></a></li>
+                    <li><a href="#"><img src="-SGZioPb_400x400.jpg" width="25px" height="25px"></a></li>
+                    <li><a href="#"><img src="download (1).jpg" width="25px" height="25px"></a></li>
+                    <li><a href="#"><img src="Pix.jpg" width="25px" height="25px"></a></li>
+
+                </ul>
+    </body>
+</html>
